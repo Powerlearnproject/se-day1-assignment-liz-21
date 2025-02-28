@@ -62,6 +62,7 @@ Responsibilities:
 4. Bug Tracking: Reporting and managing bugs found during testing.
 5. Collaboration: Working with developers to understand proper testing.
 6. Quality Assurance: Ensuring that the final product meets quality standards and user requirements.
+
 Examples of Work
 - Automating regression tests to ensure new changes don’t break existing functionality.
 
@@ -74,6 +75,7 @@ Responsibilities:
 5. Risk Management: Identifying and mitigating project risks.
 6. Monitoring: Tracking project progress and ensuring it stays on track.
 7. Reporting: Providing regular status updates and reports to stakeholders.
+
 Examples of Work:
 - Creating a project plan for the development of a new software module.
 
@@ -85,7 +87,7 @@ Integrated Development Environments (IDEs) typically includes a code editor, com
 3.	Build Automation: Many IDEs support build automation tools that help manage the compilation and packaging of applications. This feature allows developers to automate repetitive tasks, ensuring consistency and saving time.
 4.	Integration with Other Tools: IDEs often integrate seamlessly with other development tools such as version control systems (VCS), testing frameworks, and deployment platforms. This integration fosters a more cohesive workflow.
 
-Examples of IDEs: Popular examples of IDEs include:
+Examples of IDEs:
 Visual Studio: A widely used IDE for .NET applications that provides extensive support for various programming languages.
 PyCharm: An IDE specifically designed for Python development that offers intelligent code assistance and debugging capabilities.
 
